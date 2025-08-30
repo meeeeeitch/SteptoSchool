@@ -1,0 +1,504 @@
+stop_id,matched_school,confidence
+0,Dickson College,85
+1,Dickson College,85
+2,Ainslie School,85
+3,Dickson College,85
+4,Dickson College,85
+5,Dickson College,85
+6,Dickson College,85
+7,Dickson College,85
+8,Dickson College,85
+9,Ainslie School,85
+10,Ainslie School,85
+11,Dickson College,85
+12,Dickson College,85
+13,University of Canberra Senior Secondary College Lake Ginninderra,85
+14,Dickson College,85
+15,Melba Copland Secondary School,95
+16,Ainslie School,85
+17,Ainslie School,85
+18,Dickson College,85
+19,Melrose High School,100
+20,Ainslie School,85
+21,Dickson College,85
+22,Ainslie School,85
+23,Lyneham Primary School,100
+24,Dickson College,85
+25,Dickson College,85
+26,Ainslie School,85
+27,Lake Tuggeranong College,85
+28,Dickson College,85
+29,University of Canberra Senior Secondary College Lake Ginninderra,85
+30,Forrest Primary  School,100
+31,Alfred Deakin High School,100
+32,Ainslie School,85
+33,Ainslie School,85
+34,Ainslie School,85
+35,Amaroo School,85
+36,Dickson College,85
+37,Telopea Park School,95
+38,Dickson College,85
+39,Ainslie School,85
+40,Ainslie School,85
+41,Lake Tuggeranong College,85
+42,Melba Copland Secondary School,95
+43,Calwell High School,100
+44,Ainslie School,85
+45,Melrose High School,100
+46,Melba Copland Secondary School,95
+47,Charnwood-Dunlop School,100
+48,Ainslie School,85
+49,University of Canberra Senior Secondary College Lake Ginninderra,85
+50,University of Canberra Senior Secondary College Lake Ginninderra,85
+51,Ainslie School,85
+52,Ainslie School,85
+53,Telopea Park School,95
+54,Telopea Park School,95
+55,Melrose High School,100
+56,Dickson College,85
+57,Ainslie School,85
+59,Ainslie School,85
+60,Ainslie School,85
+61,Ainslie School,85
+62,Ainslie School,85
+63,Dickson College,85
+64,Stromlo High School,95
+65,Ainslie School,85
+66,Dickson College,85
+67,Ainslie School,85
+68,Melrose High School,100
+69,Melrose High School,100
+70,Dickson College,85
+71,Ainslie School,85
+72,Belconnen High School,100
+73,Dickson College,85
+75,Dickson College,85
+76,University of Canberra Senior Secondary College Lake Ginninderra,85
+77,Campbell Primary School,100
+78,Telopea Park School,95
+79,Ainslie School,85
+80,Melrose High School,100
+81,Melba Copland Secondary School,95
+82,Ainslie School,85
+83,Forrest Primary  School,100
+84,Ainslie School,85
+85,University of Canberra Senior Secondary College Lake Ginninderra,85
+86,Namadgi School,95
+87,Dickson College,85
+88,Ainslie School,85
+89,Harrison School,95
+90,Dickson College,85
+91,Ainslie School,85
+92,Wanniassa School,95
+93,Canberra High School,100
+94,University of Canberra Senior Secondary College Lake Ginninderra,85
+95,Dickson College,85
+96,Dickson College,85
+97,Ainslie School,85
+98,University of Canberra Senior Secondary College Lake Ginninderra,85
+99,Ainslie School,85
+100,Ainslie School,85
+101,Ainslie School,85
+102,Ainslie School,85
+103,Dickson College,85
+104,Melrose High School,100
+105,Dickson College,85
+106,Dickson College,85
+107,Dickson College,85
+108,Melba Copland Secondary School,95
+109,Ainslie School,85
+110,Telopea Park School,95
+111,University of Canberra Senior Secondary College Lake Ginninderra,85
+112,Ainslie School,85
+113,Telopea Park School,95
+114,Ainslie School,85
+115,Dickson College,85
+116,Dickson College,85
+117,Dickson College,85
+118,Ainslie School,85
+119,Ainslie School,85
+120,Ainslie School,85
+121,Ainslie School,85
+122,Ainslie School,85
+123,Ainslie School,85
+124,Caroline Chisholm School,95
+125,Namadgi School,95
+126,Lake Tuggeranong College,85
+127,University of Canberra Senior Secondary College Lake Ginninderra,85
+128,Alfred Deakin High School,100
+129,Telopea Park School,95
+130,Ainslie School,85
+131,Ainslie School,85
+132,Ainslie School,85
+133,Lake Tuggeranong College,85
+134,Ainslie School,85
+135,Ainslie School,85
+136,Ainslie School,85
+137,Forrest Primary  School,100
+138,Lyneham Primary School,100
+139,University of Canberra Senior Secondary College Lake Ginninderra,85
+140,Ainslie School,85
+141,Dickson College,85
+142,Dickson College,85
+143,Campbell High School,100
+144,Dickson College,85
+145,Telopea Park School,95
+146,Ainslie School,85
+147,Melrose High School,100
+148,Harrison School,95
+149,Lake Tuggeranong College,85
+150,Belconnen High School,100
+151,Ainslie School,85
+152,Telopea Park School,95
+153,Ainslie School,85
+154,Wanniassa School,95
+155,University of Canberra Senior Secondary College Lake Ginninderra,85
+156,Ainslie School,85
+157,Wanniassa School,95
+158,Telopea Park School,95
+159,Ainslie School,85
+160,Melba Copland Secondary School,95
+161,Canberra High School,100
+162,Amaroo School,85
+163,Ainslie School,85
+164,Dickson College,85
+165,Ainslie School,85
+166,Ainslie School,85
+167,Ainslie School,85
+168,Dickson College,85
+169,Dickson College,85
+170,University of Canberra Senior Secondary College Lake Ginninderra,85
+171,Dickson College,85
+172,Campbell Primary School,100
+173,Dickson College,85
+174,Ainslie School,85
+175,Calwell Primary School,100
+176,Ainslie School,85
+177,Dickson College,85
+178,Telopea Park School,95
+179,Ainslie School,85
+180,Namadgi School,95
+181,Belconnen High School,100
+182,Dickson College,85
+183,Dickson College,85
+184,Ainslie School,85
+185,Lake Tuggeranong College,85
+186,Melrose High School,100
+187,Lake Tuggeranong College,85
+188,Dickson College,85
+189,Ainslie School,85
+190,Theodore Primary School,100
+191,Ainslie School,85
+192,Ainslie School,85
+193,Melrose High School,100
+194,Dickson College,85
+195,Ainslie School,85
+196,Wanniassa School,95
+197,Ainslie School,85
+198,Ainslie School,85
+199,Dickson College,85
+200,Lake Tuggeranong College,85
+201,University of Canberra Senior Secondary College Lake Ginninderra,85
+202,Ainslie School,85
+203,Ainslie School,85
+204,Dickson College,85
+205,Campbell High School,100
+206,Ainslie School,85
+207,Dickson College,85
+208,Fraser Primary School,100
+209,Ainslie School,85
+210,Ainslie School,85
+211,Lake Tuggeranong College,85
+212,Stromlo High School,95
+213,Theodore Primary School,100
+214,Melba Copland Secondary School,95
+215,Ainslie School,85
+216,Dickson College,85
+217,Dickson College,85
+218,Charnwood-Dunlop School,100
+219,Ainslie School,85
+220,Ainslie School,85
+221,Ainslie School,85
+222,Ainslie School,85
+223,Melrose High School,100
+224,Dickson College,85
+225,Caroline Chisholm School,95
+226,Namadgi School,95
+227,Ainslie School,85
+228,Forrest Primary  School,100
+229,Dickson College,85
+230,Ainslie School,85
+231,Dickson College,85
+232,Canberra High School,100
+233,Harrison School,95
+234,Lake Tuggeranong College,85
+235,Dickson College,85
+236,Ainslie School,85
+237,Lake Tuggeranong College,85
+238,Canberra High School,100
+239,Forrest Primary  School,100
+240,Ainslie School,85
+241,Dickson College,85
+242,Telopea Park School,95
+244,Ainslie School,85
+245,Ainslie School,85
+246,Ainslie School,85
+247,Dickson College,85
+248,Ainslie School,85
+250,Lake Tuggeranong College,85
+251,Red Hill Primary School,100
+252,Telopea Park School,95
+253,Lake Tuggeranong College,85
+254,Dickson College,85
+255,Telopea Park School,95
+256,Dickson College,85
+257,Ainslie School,85
+258,Ainslie School,85
+259,Dickson College,85
+260,Lake Tuggeranong College,85
+261,Dickson College,85
+262,Ainslie School,85
+263,Ainslie School,85
+264,Amaroo School,85
+265,University of Canberra Senior Secondary College Lake Ginninderra,85
+266,Dickson College,85
+267,Dickson College,85
+268,Calwell High School,100
+269,University of Canberra Senior Secondary College Lake Ginninderra,85
+270,Ainslie School,85
+271,Melrose High School,100
+272,Ainslie School,85
+273,Dickson College,85
+274,Dickson College,85
+275,Dickson College,85
+276,Belconnen High School,100
+277,University of Canberra Senior Secondary College Lake Ginninderra,85
+278,Dickson College,85
+279,University of Canberra High School Kaleen,100
+280,Ainslie School,85
+281,University of Canberra Senior Secondary College Lake Ginninderra,85
+282,Telopea Park School,95
+283,Dickson College,85
+284,Lyneham Primary School,100
+285,Ainslie School,85
+286,Ainslie School,85
+287,Melrose High School,100
+288,Ainslie School,85
+289,Ainslie School,85
+290,Ainslie School,85
+291,Melrose High School,100
+292,Caroline Chisholm School,95
+293,University of Canberra Senior Secondary College Lake Ginninderra,85
+294,Ainslie School,85
+295,Ainslie School,85
+296,Alfred Deakin High School,100
+297,Telopea Park School,95
+298,University of Canberra Senior Secondary College Lake Ginninderra,85
+299,Dickson College,85
+300,Dickson College,85
+301,Amaroo School,85
+302,Ainslie School,85
+303,Dickson College,85
+304,Dickson College,85
+305,Campbell High School,100
+306,Namadgi School,95
+307,Dickson College,85
+308,Dickson College,85
+309,Campbell Primary School,100
+310,Dickson College,85
+311,University of Canberra Senior Secondary College Lake Ginninderra,85
+312,Ainslie School,85
+313,Ainslie School,85
+314,Belconnen High School,100
+315,University of Canberra Senior Secondary College Lake Ginninderra,85
+316,Dickson College,85
+317,Melrose High School,100
+318,Dickson College,85
+319,Dickson College,85
+320,Dickson College,85
+321,Telopea Park School,95
+322,Ainslie School,85
+323,Ainslie School,85
+324,Dickson College,85
+325,Alfred Deakin High School,100
+326,Telopea Park School,95
+327,Ainslie School,85
+328,Forrest Primary  School,100
+329,Calwell High School,100
+330,Dickson College,85
+331,Wanniassa School,95
+332,Ainslie School,85
+333,Dickson College,85
+334,Canberra High School,100
+335,Lake Tuggeranong College,85
+336,Dickson College,85
+337,Ainslie School,85
+338,Dickson College,85
+339,Canberra High School,100
+340,Amaroo School,85
+341,Ainslie School,85
+342,University of Canberra Senior Secondary College Lake Ginninderra,85
+343,Wanniassa Hills Primary School,100
+344,Dickson College,85
+345,Dickson College,85
+346,Ainslie School,85
+347,Dickson College,85
+348,Ainslie School,85
+349,Dickson College,85
+350,Ainslie School,85
+351,Lake Tuggeranong College,85
+352,Lake Tuggeranong College,85
+353,Forrest Primary  School,100
+355,Forrest Primary  School,100
+356,Ainslie School,85
+357,Ainslie School,85
+358,Campbell High School,100
+359,Dickson College,85
+360,Dickson College,85
+361,Ainslie School,85
+362,Alfred Deakin High School,100
+363,Ainslie School,85
+364,Ainslie School,85
+365,University of Canberra Senior Secondary College Lake Ginninderra,85
+366,University of Canberra Senior Secondary College Lake Ginninderra,85
+367,University of Canberra Senior Secondary College Lake Ginninderra,85
+368,Dickson College,85
+369,Ainslie School,85
+370,Ainslie School,85
+371,Stromlo High School,95
+372,Ainslie School,85
+373,Ainslie School,85
+374,Ainslie School,85
+375,Melrose High School,100
+376,Dickson College,85
+377,Dickson College,85
+378,Harrison School,95
+379,Dickson College,85
+380,Melba Copland Secondary School,95
+381,University of Canberra Senior Secondary College Lake Ginninderra,85
+382,Fraser Primary School,100
+383,Ainslie School,85
+384,Melrose High School,100
+385,Dickson College,85
+386,Melba Copland Secondary School,95
+387,Ainslie School,85
+388,Ainslie School,85
+389,Ainslie School,85
+390,Ainslie School,85
+391,Ainslie School,85
+392,Dickson College,85
+393,Campbell High School,100
+394,Dickson College,85
+395,Lyneham Primary School,100
+396,Dickson College,85
+397,University of Canberra Senior Secondary College Lake Ginninderra,85
+398,Calwell High School,100
+399,Dickson College,85
+400,North Ainslie Primary School,100
+401,Dickson College,85
+402,Namadgi School,95
+403,Alfred Deakin High School,100
+405,Ainslie School,85
+406,Belconnen High School,100
+407,Melrose High School,100
+408,Ainslie School,85
+409,Dickson College,85
+410,Ainslie School,85
+411,Ainslie School,85
+412,Dickson College,85
+413,University of Canberra High School Kaleen,100
+414,Melba Copland Secondary School,95
+415,Dickson College,85
+417,University of Canberra Senior Secondary College Lake Ginninderra,85
+418,Red Hill Primary School,100
+419,Ainslie School,85
+420,Ainslie School,85
+421,Ainslie School,85
+422,Ainslie School,85
+423,Ainslie School,85
+424,Ainslie School,85
+425,Caroline Chisholm School,95
+426,Dickson College,85
+427,Dickson College,85
+428,Telopea Park School,95
+429,Ainslie School,85
+430,Melrose High School,100
+431,Dickson College,85
+432,University of Canberra Senior Secondary College Lake Ginninderra,85
+433,Forrest Primary  School,100
+434,Ainslie School,85
+435,Telopea Park School,95
+436,Dickson College,85
+437,Dickson College,85
+438,Dickson College,85
+439,Dickson College,85
+440,University of Canberra Senior Secondary College Lake Ginninderra,85
+441,Canberra High School,100
+442,Ainslie School,85
+443,Melba Copland Secondary School,95
+444,Amaroo School,85
+445,University of Canberra Senior Secondary College Lake Ginninderra,85
+446,Dickson College,85
+447,University of Canberra Senior Secondary College Lake Ginninderra,85
+448,University of Canberra Senior Secondary College Lake Ginninderra,85
+450,Dickson College,85
+451,Forrest Primary  School,100
+452,Ainslie School,85
+453,Alfred Deakin High School,100
+454,Dickson College,85
+455,Namadgi School,95
+456,North Ainslie Primary School,100
+457,Ainslie School,85
+458,Ainslie School,85
+459,Telopea Park School,95
+460,Dickson College,85
+461,Dickson College,85
+462,Melrose High School,100
+463,Calwell Primary School,100
+464,Telopea Park School,95
+465,Dickson College,85
+466,Lyneham Primary School,100
+467,University of Canberra Senior Secondary College Lake Ginninderra,85
+468,Dickson College,85
+469,Dickson College,85
+470,Ainslie School,85
+471,Ainslie School,85
+472,Telopea Park School,95
+473,Wanniassa School,95
+474,Ainslie School,85
+475,Dickson College,85
+476,Melrose High School,100
+477,Dickson College,85
+478,Dickson College,85
+479,Ainslie School,85
+480,Ainslie School,85
+481,Ainslie School,85
+482,Canberra High School,100
+483,Dickson College,85
+484,Lake Tuggeranong College,85
+485,Ainslie School,85
+486,Dickson College,85
+487,Telopea Park School,95
+488,Ainslie School,85
+489,Calwell Primary School,100
+490,Stromlo High School,95
+491,Campbell High School,100
+492,Ainslie School,85
+493,Ainslie School,85
+494,Ainslie School,85
+495,Namadgi School,95
+496,Ainslie School,85
+497,Dickson College,85
+498,Ainslie School,85
+499,Ainslie School,85
+500,Melrose High School,100
+501,Lyneham Primary School,100
+502,Alfred Deakin High School,100
+503,University of Canberra Senior Secondary College Lake Ginninderra,85
+504,Wanniassa Hills Primary School,100
+505,Ainslie School,85
+506,Calwell Primary School,100
+507,Dickson College,85
+508,Dickson College,85
+509,Ainslie School,85
+510,Campbell Primary School,100

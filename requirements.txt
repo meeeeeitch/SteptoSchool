@@ -1,0 +1,17 @@
+# Core
+pandas>=2.2
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+rtree>=1.2
+networkx>=3.2
+osmnx>=1.9
+rapidfuzz>=3.9
+requests>=2.32
+orjson>=3.10
+tqdm>=4.66
+matplotlib>=3.10.6
+# For OSMnx nearest_nodes on unprojected graphs
+scikit-learn>=1.4
+numpy>=1.26
+scipy>=1.10
