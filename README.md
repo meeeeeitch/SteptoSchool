@@ -1,6 +1,6 @@
-# School Transport Optimiser (ACT) — Graph + Gen‑AI ready
+# Step to School
 
-This repo gives you a *minimal, runnable* pipeline to analyse and optimise ACT public **school transport** using open data.
+This repo gives you a pipeline to analyse and optimise ACT public **school transport** using open data.
 It focuses on **school specials** coverage and “less hassle” metrics (walk time to an appropriate stop, transfers avoided).
 
 ## What it does
@@ -12,9 +12,7 @@ It focuses on **school specials** coverage and “less hassle” metrics (walk t
 5. **Suggests quick wins** (candidate new stops / minor detours) with simple heuristics.
 6. **Exports** CSVs/GeoPackages for mapping (Power BI, QGIS).
 
-> Note: The end‑to‑end graph can be extended later to include general routes, light rail, and time‑dependent headways. This weekend version is scoped to school specials to get credible results fast.
-
-## Datasets (IDs you can paste directly in config)
+## Datasets
 
 - Daily Public Transport Passenger Journeys by Service Type (ACT, Socrata ID: `nkxy-abdj`)
 - ACT School Bus Services (Socrata ID: `p4rg-3jx2`)
@@ -76,25 +74,22 @@ python scripts/04_suggest_quick_wins.py --max-new-stops 15
 
 Outputs land in `output/` as CSV and GeoPackage layers you can map in Power BI or QGIS.
 
-## Power BI wiring (quick)
-
-- Load `output/sa1_school_kpis.csv` and `output/stops_schoolspecials.geojson`.
-- Map visuals: SA1 hex/choropleth by `pct_within_10_min` and scatter the candidate stops.
-- Use slicers for School, Year, Threshold.
 
 ## Repo layout
 
 ```
 school_transport_opt/
   data/
-    raw/                 # auto‑downloaded
-    manual/              # drop SA1 centroids here if you have them
-  output/                # results
+    raw/
+    manual/
+  output/
   scripts/
     01_download_all.py
     02_build_graph.py
     03_compute_kpis.py
     04_suggest_quick_wins.py
+    05_prepare_view.py
+    06_make_plots_all.py
   src/
     config.py
     data_loaders.py
